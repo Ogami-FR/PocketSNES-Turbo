@@ -8,6 +8,6 @@ Emulator SNES for RS-97 &amp; LDK Game
 <br>**-**Small graphic redesign.
 <br>**-**Adding a key combination on startup to bypass the CPU frequency backup by games: 
 <br>Hold [SELECT] just after starting the rom.
-<br>**(simple and easy solution to correct a wrong setting save without using a PC to remove the "* .turbo" backup)
+<br>**(simple and easy solution to correct a wrong frequency setting save without using a PC to remove the "* .turbo" backup)
 <br>------
 <br>Find me on: http://www.open-consoles.com

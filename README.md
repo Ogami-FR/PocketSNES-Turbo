@@ -1,6 +1,7 @@
 # PocketSNES-Turbo
 Emulator SNES for RS-97 &amp; LDK Game
-![alt tag](https://i10.servimg.com/u/f10/20/08/16/04/pocket11.png)
+<br>Fork= https://github.com/pingflood/PocketSNES (Thanks pingflood)
+<br>![alt tag](https://i10.servimg.com/u/f10/20/08/16/04/pocket11.png)
 <br>-**Display of the battery level in the emulator menu.
 <br>**-**Overclock and Underclock processor in the emulator.
 <br>**-**Backup settings processor frequency by games in the folder ".pocketsnes".
